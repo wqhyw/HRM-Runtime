@@ -198,7 +198,12 @@ class SampleSolutionTests {
 
     @Test
     fun `Test Prime Factory`() {
-//        solve(PrimeFactory)
+        solve(PrimeFactory)
+    }
+
+    @Test
+    fun `Test Sorting Floor`() {
+        solve(SortingFloor)
     }
 
     private fun <E> solve(puzzle: Puzzle<E>) {

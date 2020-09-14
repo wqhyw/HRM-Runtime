@@ -1,0 +1,1 @@
+All puzzles and solutions come from https://github.com/atesgoral/hrm-solutions[hrm-solutions].
