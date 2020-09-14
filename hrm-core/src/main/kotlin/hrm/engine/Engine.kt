@@ -136,7 +136,7 @@ class Engine<E>(
 
     private fun exec(): Boolean =
         if (hasNext) {
-            val instruction = currentInstruction
+             val instruction = currentInstruction
 
             _pc = when (instruction) {
                 is InBox -> inbox()

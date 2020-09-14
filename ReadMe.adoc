@@ -1,0 +1,15 @@
+= Human Resource Engine Runtime =
+
+[quote, 'http://atesgoral.github.io/hrm-solutions[atesgoral]']
+____
+https://tomorrowcorporation.com/humanresourcemachine[Human Resource Machine] is a fun, little, dark-humoured puzzle game that either can teach you assembly from the ground up or allow you to put your existing assembly knowledge into practice in coming up with speed/size optimized solutions to increasingly hard problems.
+____
+
+== TODO List
+* [*] A runtime for assembly-like hrm language
+* [ ] `DEFINE` and `COMMENT` support
+* [ ] Interceptor
+* [ ] CLI interface
+* [ ] `svg` support
+* [*] Puzzles from origin game
+* [*] Example solutions from https://github.com/atesgoral/hrm-solutions[atesgoral/hrm-solutions]
